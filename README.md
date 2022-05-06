@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit Sharma 
 - 👀 I’m interested in Coding and manily in python
-- 🌱 I’m currently learning Python GUI with Tkinter
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on -harshitsharma639500@gmail.com
 
